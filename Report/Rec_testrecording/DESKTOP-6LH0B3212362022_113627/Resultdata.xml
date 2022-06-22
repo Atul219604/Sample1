@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Items>
+  <Reports>
+    <Item TCODE="Rec_testrecording" Completed="1" Incompleted="0" />
+  </Reports>
+  <Status>
+    <StatusExe ComponentName="Rec_testrecording" Iteration="1" Message="Rec_testrecording completed successfully" ImagePath="C:\New folder10\Report\Rec_testrecording\DESKTOP-6LH0B3212362022_113627\Capture_10.png" StartTime="12May22 11:36:36 AM" EndTime="12May22 11:36:44 AM" />
+  </Status>
+</Items>
